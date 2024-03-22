@@ -6,3 +6,7 @@ This repository contains examples of using Semantic HTML to improve the structur
 ## Execution
 Took base sloppy code and cleaned it up using  semantic elements and consolidated the css. 
 
+## Link 
+https://odesii.github.io/Semantic-Html/
+
+![screenshot](https://i.imgur.com/lXe4TVm.jpeg)
